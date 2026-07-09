@@ -1,1 +1,1 @@
-# .github
+# Hypertherm Development
