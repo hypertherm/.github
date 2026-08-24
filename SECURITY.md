@@ -3,7 +3,7 @@ Hypertherm Associates, Inc. ("Hypertherm") is committed to the security of its p
 
 This policy applies to all Hypertherm software products and repositories unless a repository contains its own SECURITY.md with product-specific instructions.
 
-# Reporting a Vulnerability [GM1.1][MM1.2]or Severe Cybersecurity Incident
+# Reporting a Vulnerability or Severe Cybersecurity Incident
 
 If you have discovered a security vulnerability or are aware of a severe cybersecurity incident affecting a Hypertherm product, please report it through our PSIRT portal:
 
